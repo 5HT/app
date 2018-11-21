@@ -1,5 +1,5 @@
-Two REVIEW application with ONE N2O
-===================================
+Two REVIEW applications with one N2O
+====================================
 
 Here is example of N2O usage with one N2O TT instance.
 How it was built:
